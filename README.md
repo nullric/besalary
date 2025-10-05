@@ -46,6 +46,7 @@ Every job title in the dataset now matches one ESCO occupation, improving consis
 
 **Outcome:**  
 All records are now associated with consistent sector or industry classifications, allowing cross-comparison and aggregation.
+See [clean_job_titles.py](clean_job_titles.py) and [map_sectors.py](map_sectors.py) for implementation details.
 
 ---
 
